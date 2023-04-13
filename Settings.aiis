@@ -220,11 +220,11 @@
     "SourceControlRepository": {
       "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
       "__value": {
-        "RemotePath": "git@github.com:sureshkale2309/Automation.git",
+        "RemotePath": "https://github.com/sureshkale2309/Test-Studio.git",
         "ServerInfo": {
           "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
           "__value": {
-            "ServerName": "git@github.com:sureshkale2309/Automation.git"
+            "ServerName": "https://github.com/sureshkale2309/Test-Studio.git"
           }
         },
         "ServerType": 2
